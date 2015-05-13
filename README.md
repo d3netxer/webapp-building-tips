@@ -14,3 +14,8 @@ http://bl.ocks.org/Guerino1/2164562
 
 responsive d3 map design:
 http://eyeseast.github.io/visible-data/2013/08/26/responsive-d3/
+
+Publishing interactive web maps using QGIS
+http://anitagraser.com/page/2/
+
+three.js: 3-D WebGS
