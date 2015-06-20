@@ -20,5 +20,5 @@ http://anitagraser.com/page/2/
 
 three.js: 3-D WebGS
 
-Dev Seen, Jekyll pages, search plug-in:
+Dev Seed, Jekyll pages, search plug-in:
 https://developmentseed.org/blog/2011/09/09/jekyll-github-pages/
