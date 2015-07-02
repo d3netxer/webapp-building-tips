@@ -32,3 +32,12 @@ http://sass-lang.com/guide
 learn parallax scrolling:
 https://ihatetomatoes.net/how-to-create-a-parallax-scrolling-website/
 
+Learn Node.js:
+http://nodeschool.io/#workshoppers
+
+Learn HandleBar template:
+https://www.youtube.com/watch?v=iPll5mi7u9I
+
+https://github.com/jenningsanderson?tab=repositories
+
+
