@@ -29,3 +29,6 @@ http://purecss.io/start/
 https://smacss.com/book/about
 http://sass-lang.com/guide
 
+learn parallax scrolling:
+https://ihatetomatoes.net/how-to-create-a-parallax-scrolling-website/
+
