@@ -42,5 +42,6 @@ https://github.com/jenningsanderson?tab=repositories
 
 Travis:
 https://travis-ci.org/
+http://awestruct.org/auto-deploy-to-github-pages/
 
 
