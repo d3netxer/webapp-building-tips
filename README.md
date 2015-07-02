@@ -22,3 +22,10 @@ three.js: 3-D WebGS
 
 Dev Seed, Jekyll pages, search plug-in:
 https://developmentseed.org/blog/2011/09/09/jekyll-github-pages/
+
+read more on CSS:
+
+http://purecss.io/start/
+https://smacss.com/book/about
+http://sass-lang.com/guide
+
