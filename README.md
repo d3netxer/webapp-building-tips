@@ -46,5 +46,10 @@ http://awestruct.org/auto-deploy-to-github-pages/
 
 http://www.hackreactor.com
 
+##Adding discussion board to site:
+
+https://meta.discourse.org/t/discourse-plugin-for-static-site-generators-like-jekyll-or-octopress/7965/12
+http://eviltrout.com/2014/01/22/embedding-discourse.html
+
 
 
