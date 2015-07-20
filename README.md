@@ -5,7 +5,7 @@ notes related to building webs
 
 web-scraping:
 
-checkout kimonolabs, import.io, and diffbot
+checkout kimonolabs, import.io, ParseHub, and diffbot
 
 d3-links:
 
