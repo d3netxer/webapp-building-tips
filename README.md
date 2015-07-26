@@ -61,6 +61,11 @@ Inspiration:
 https://developmentseed.org/blog/
 http://www.100resilientcities.org/cities#/-_/
 
+front-end libraries:
+
+http://semantic-ui.com/
+-bootstrap
+
 
 
 
