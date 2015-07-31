@@ -69,6 +69,7 @@ http://semantic-ui.com/
 service workers:
 https://eduardoboucas.com/blog/2015/06/04/supercharging-jekyll-with-a-serviceworker.html
 
-
+ex. of push git repo directly to serve and deploying using post-receive hook:
+https://www.digitalocean.com/community/tutorials/how-to-deploy-jekyll-blogs-with-git
 
 
