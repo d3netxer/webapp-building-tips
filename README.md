@@ -66,6 +66,9 @@ front-end libraries:
 http://semantic-ui.com/
 -bootstrap
 
+service workers:
+https://eduardoboucas.com/blog/2015/06/04/supercharging-jekyll-with-a-serviceworker.html
+
 
 
 
