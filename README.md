@@ -97,5 +97,8 @@ https://ifttt.com/wtf
 #####UNHCR
 ######http://data.unhcr.org/
 
+###Aligning Divs with CSS
+####http://stackoverflow.com/questions/5803023/how-to-place-two-divs-next-to-each-other
+
 
 
