@@ -100,5 +100,9 @@ https://ifttt.com/wtf
 ###Aligning Divs with CSS
 ####http://stackoverflow.com/questions/5803023/how-to-place-two-divs-next-to-each-other
 
+###Bootstrap
+
+####Nav-bar change color causes a white border
+#####http://stackoverflow.com/questions/19044657/bootstrap-3-nav-bar-change-color-cause-showing-a-white-border-or-white-line
 
 
