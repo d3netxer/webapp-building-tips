@@ -108,3 +108,6 @@ https://ifttt.com/wtf
 http://www.wired.com/2014/10/twitter-fabric-sdk/
 https://get.fabric.io/digits
 
+###Mobile
+
+#####https://www.ampproject.org/
