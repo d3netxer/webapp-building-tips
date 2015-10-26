@@ -108,6 +108,12 @@ https://ifttt.com/wtf
 http://www.wired.com/2014/10/twitter-fabric-sdk/
 https://get.fabric.io/digits
 
+####Bootstrap Less workflow (compile vs only stylesheet override)
+http://www.helloerik.com/bootstrap-3-less-workflow-tutorial
+
+####NPM watch-less (to compile .less)
+https://github.com/jgreene/watch-less
+
 ###Mobile
 
 #####https://www.ampproject.org/
