@@ -114,6 +114,9 @@ http://www.helloerik.com/bootstrap-3-less-workflow-tutorial
 ####NPM watch-less (to compile .less)
 https://github.com/jgreene/watch-less
 
+####Bootstrap 3 grid Intro
+http://www.helloerik.com/bootstrap-3-grid-introduction
+
 ###Mobile
 
 #####https://www.ampproject.org/
