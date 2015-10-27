@@ -120,3 +120,7 @@ http://www.helloerik.com/bootstrap-3-grid-introduction
 ###Mobile
 
 #####https://www.ampproject.org/
+
+###footers
+http://stackoverflow.com/questions/12871710/what-does-the-css-rule-clear-both-do
+http://stackoverflow.com/questions/10099422/flushing-footer-to-bottom-of-the-page-twitter-bootstrap
