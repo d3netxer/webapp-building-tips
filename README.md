@@ -127,3 +127,8 @@ http://stackoverflow.com/questions/10099422/flushing-footer-to-bottom-of-the-pag
 
 ##auto-push to Github?
 http://mattmakesmaps.com/blog/2013/06/16/auto-push-to-github-via-machine-user/
+
+##Nice Designs
+
+###Slack Help Center
+####https://get.slack.help/hc/en-us
