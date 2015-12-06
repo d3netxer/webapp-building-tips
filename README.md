@@ -132,3 +132,11 @@ http://mattmakesmaps.com/blog/2013/06/16/auto-push-to-github-via-machine-user/
 
 ###Slack Help Center
 ####https://get.slack.help/hc/en-us
+
+##Functional Programming
+
+###Rambda.js
+####http://ramdajs.com/0.18.0/index.html
+
+####currying
+####http://fr.umio.us/favoring-curry/
