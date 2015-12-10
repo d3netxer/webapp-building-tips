@@ -143,3 +143,6 @@ http://mattmakesmaps.com/blog/2013/06/16/auto-push-to-github-via-machine-user/
 
 ####currying
 ####http://fr.umio.us/favoring-curry/
+
+###leaflet
+####http://harrywood.co.uk/maps/examples/
