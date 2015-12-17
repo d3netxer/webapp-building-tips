@@ -146,3 +146,8 @@ http://mattmakesmaps.com/blog/2013/06/16/auto-push-to-github-via-machine-user/
 
 ###leaflet
 ####http://harrywood.co.uk/maps/examples/
+
+###Location based services
+
+####factual
+####https://www.factual.com/solutions/developers
