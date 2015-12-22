@@ -154,3 +154,7 @@ http://mattmakesmaps.com/blog/2013/06/16/auto-push-to-github-via-machine-user/
 
 ###real time app services
 ####https://www.pubnub.com/
+
+###GreenPlum
+####http://pivotal.io/big-data/pivotal-greenplum
+####massively parallel processing database built on open source PostgreSQL
