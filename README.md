@@ -127,6 +127,7 @@ http://stackoverflow.com/questions/10099422/flushing-footer-to-bottom-of-the-pag
 
 ##auto-push to Github?
 http://mattmakesmaps.com/blog/2013/06/16/auto-push-to-github-via-machine-user/
+http://adrianmejia.com/blog/2011/08/15/git-auto-commit-with-crontab/
 
 ##Nice Designs
 
