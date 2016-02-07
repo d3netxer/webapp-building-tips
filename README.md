@@ -159,3 +159,6 @@ http://adrianmejia.com/blog/2011/08/15/git-auto-commit-with-crontab/
 ###GreenPlum
 ####http://pivotal.io/big-data/pivotal-greenplum
 ####massively parallel processing database built on open source PostgreSQL
+
+###designing for print
+####https://www.smashingmagazine.com/2015/01/designing-for-print-with-css/
