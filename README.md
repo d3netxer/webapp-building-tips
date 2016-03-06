@@ -162,3 +162,7 @@ http://adrianmejia.com/blog/2011/08/15/git-auto-commit-with-crontab/
 
 ###designing for print
 ####https://www.smashingmagazine.com/2015/01/designing-for-print-with-css/
+
+###info graphic like videos
+####Kindea Labs
+####http://www.kindealabs.com/
