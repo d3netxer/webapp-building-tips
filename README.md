@@ -166,3 +166,17 @@ http://adrianmejia.com/blog/2011/08/15/git-auto-commit-with-crontab/
 ###info graphic like videos
 ####Kindea Labs
 ####http://www.kindealabs.com/
+
+
+### PYCSW
+#### pycsw is an OGC CSW server implementation written in Python.
+#### http://pycsw.org/
+
+GeoNetwork?
+
+Zoo-Project?
+### http://www.zoo-project.org/new/
+
+### PYWPS
+#### PyWPS is an implementation of the Web Processing Service standard from the Open Geospatial Consortium. PyWPS is written in Python.
+#### http://pywps.org/
