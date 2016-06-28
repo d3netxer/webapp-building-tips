@@ -184,3 +184,6 @@ Zoo-Project?
 ### Wordpress has a pretty nice one page parallax webpage theme: Brooklyn http://themeforest.net/item/brooklyn-creative-one-page-multipurpose-theme/6221179
 
 good example is Geography 20150 site: http://www.geography2050.info/ 
+
+## learn GraphQL
+https://blog.risingstack.com/graphql-overview-getting-started-with-graphql-and-nodejs/
