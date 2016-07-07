@@ -187,3 +187,5 @@ good example is Geography 20150 site: http://www.geography2050.info/
 
 ## learn GraphQL
 https://blog.risingstack.com/graphql-overview-getting-started-with-graphql-and-nodejs/
+
+## check out D3 4.0!  https://github.com/d3/d3/releases/v4.0.0
