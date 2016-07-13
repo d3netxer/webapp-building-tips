@@ -192,3 +192,6 @@ https://blog.risingstack.com/graphql-overview-getting-started-with-graphql-and-n
 
 ## testing
 ### http://www.testingexcellence.com/selenium-and-cucumber-ui-automation-challenges/
+
+### Mapbox using Google sheets, Github gists, and dropbox
+https://www.mapbox.com/blog/data-driven-style-remote-sources/?utm_source=july_newsletter&utm_medium=email&utm_content=dds_remote_sources&utm_campaign=july_newsletter
