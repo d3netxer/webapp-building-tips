@@ -195,3 +195,6 @@ https://blog.risingstack.com/graphql-overview-getting-started-with-graphql-and-n
 
 ### Mapbox using Google sheets, Github gists, and dropbox
 https://www.mapbox.com/blog/data-driven-style-remote-sources/?utm_source=july_newsletter&utm_medium=email&utm_content=dds_remote_sources&utm_campaign=july_newsletter
+
+###build a Firebase commenting system in a Jekyll blog
+### https://css-tricks.com/building-a-jekyll-site-part-3-of-3/
