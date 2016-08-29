@@ -198,3 +198,7 @@ https://www.mapbox.com/blog/data-driven-style-remote-sources/?utm_source=july_ne
 
 ###build a Firebase commenting system in a Jekyll blog
 ### https://css-tricks.com/building-a-jekyll-site-part-3-of-3/
+
+### good sites for working with TopoJSON
+#### http://mapshaper.org/
+#### http://mapstarter.com/ 
