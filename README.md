@@ -207,3 +207,7 @@ https://www.mapbox.com/blog/data-driven-style-remote-sources/?utm_source=july_ne
 
 ### Check out Tegola by Terranodo to serve vector tiles
 ### https://github.com/terranodo/tegola 
+
+## look more into card design
+
+http://www.awwwards.com/play-your-cards-right-exploring-the-cards-trend-in-web-design.html
