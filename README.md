@@ -154,7 +154,8 @@ http://adrianmejia.com/blog/2011/08/15/git-auto-commit-with-crontab/
 ####https://www.factual.com/solutions/developers
 
 ###real time app services
-####https://www.pubnub.com/
+#### https://www.pubnub.com/
+#### https://timber.io/
 
 ###GreenPlum
 ####http://pivotal.io/big-data/pivotal-greenplum
@@ -211,3 +212,9 @@ https://www.mapbox.com/blog/data-driven-style-remote-sources/?utm_source=july_ne
 ## look more into card design
 
 http://www.awwwards.com/play-your-cards-right-exploring-the-cards-trend-in-web-design.html
+
+## Visualisation
+
+### I like this svg animation from https://timber.io/
+### Also checkout vivus.js https://maxwellito.github.io/vivus/ 
+
