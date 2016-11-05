@@ -218,3 +218,5 @@ http://www.awwwards.com/play-your-cards-right-exploring-the-cards-trend-in-web-d
 ### I like this svg animation from https://timber.io/
 ### Also checkout vivus.js https://maxwellito.github.io/vivus/ 
 
+### I like this D3 timeline
+#### http://petrdevaikin.com/katz/eng/timeline/
