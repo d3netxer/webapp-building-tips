@@ -220,3 +220,11 @@ http://www.awwwards.com/play-your-cards-right-exploring-the-cards-trend-in-web-d
 
 ### I like this D3 timeline
 #### http://petrdevaikin.com/katz/eng/timeline/
+
+## Animation
+https://24ways.org/2016/animation-in-design-systems/
+
+
+https://24ways.org/
+
+Kendo-UI
