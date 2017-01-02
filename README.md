@@ -244,3 +244,5 @@ https://nerds.inn.org/2014/06/09/responsive-tables/
 https://24ways.org/
 
 Kendo-UI
+
+https://superdevresources.com/
