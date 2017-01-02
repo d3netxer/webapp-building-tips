@@ -20,8 +20,13 @@ http://anitagraser.com/page/2/
 
 three.js: 3-D WebGS
 
-Dev Seed, Jekyll pages, search plug-in:
+## Jeykyll
+
+### Dev Seed, Jekyll pages, search plug-in:
 https://developmentseed.org/blog/2011/09/09/jekyll-github-pages/
+
+### tagging in Jeykyll
+https://superdevresources.com/tag-cloud-jekyll/
 
 read more on CSS:
 
