@@ -228,6 +228,8 @@ https://24ways.org/2016/animation-in-design-systems/
 
 https://github.com/filamentgroup/tablesaw#stack
 
+https://github.com/INN/responsive-tables/
+
 https://nerds.inn.org/2014/07/09/a-simple-way-to-create-responsive-tables-directly-in-your-browser/
 
 https://nerds.inn.org/2014/06/09/responsive-tables/
