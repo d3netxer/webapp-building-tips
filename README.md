@@ -239,6 +239,13 @@ https://nerds.inn.org/2014/07/09/a-simple-way-to-create-responsive-tables-direct
 
 https://nerds.inn.org/2014/06/09/responsive-tables/
 
+## AI based services
+
+### conversational interfaces
+
+Amazon lex
+https://aws.amazon.com/lex/
+
 
 ## other
 https://24ways.org/
@@ -248,3 +255,4 @@ Kendo-UI
 https://superdevresources.com/
 
 http://www.macwright.org/
+
