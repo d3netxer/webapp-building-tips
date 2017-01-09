@@ -256,3 +256,8 @@ https://superdevresources.com/
 
 http://www.macwright.org/
 
+## Geo WebApps
+
+###Maputnik Editor
+https://github.com/maputnik/editor
+
