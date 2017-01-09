@@ -260,4 +260,4 @@ http://www.macwright.org/
 
 ###Maputnik Editor
 https://github.com/maputnik/editor
-
+https://www.kickstarter.com/projects/174808720/maputnik-visual-map-editor-for-mapbox-gl
