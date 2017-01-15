@@ -278,4 +278,6 @@ https://dribbble.com/
 
 ## Jekyll Based CMS
 https://www.siteleaf.com/
+https://www.siteleaf.com/gallery/
 http://cloudcannon.com/
+http://cloudcannon.com/gallery/
