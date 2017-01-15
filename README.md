@@ -275,3 +275,7 @@ http://www.appelsiini.net/projects/lazyload
 
 ## Design
 https://dribbble.com/
+
+## Jekyll Based CMS
+https://www.siteleaf.com/
+http://cloudcannon.com/
