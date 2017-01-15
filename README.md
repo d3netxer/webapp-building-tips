@@ -261,3 +261,10 @@ http://www.macwright.org/
 ###Maputnik Editor
 https://github.com/maputnik/editor
 https://www.kickstarter.com/projects/174808720/maputnik-visual-map-editor-for-mapbox-gl
+
+## Education
+
+### Hyper Island
+https://www.hyperisland.com/
+https://www.hyperisland.com/programs-and-courses/digital-data-strategist?unit=528
+http://theheureka.com/hyper-island
