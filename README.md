@@ -268,3 +268,7 @@ https://www.kickstarter.com/projects/174808720/maputnik-visual-map-editor-for-ma
 https://www.hyperisland.com/
 https://www.hyperisland.com/programs-and-courses/digital-data-strategist?unit=528
 http://theheureka.com/hyper-island
+
+
+JQuery lazy-loader
+http://www.appelsiini.net/projects/lazyload
