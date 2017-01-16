@@ -297,3 +297,9 @@ https://medium.com/ux-power-tools/tiny-trends-1-non-rectangular-headers-e8d2d4ee
 http://tobiasahlin.com/
 
 https://css-tricks.com/controlling-css-animations-transitions-javascript/
+
+## Essential JavaScript Links
+https://github.com/ericelliott/essential-javascript-links#essential-javascript-links
+
+## Unit Tests
+https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4#.2slv3pmlo
