@@ -293,3 +293,7 @@ https://css-tricks.com/
 
 ### non-rectangular headers
 https://medium.com/ux-power-tools/tiny-trends-1-non-rectangular-headers-e8d2d4ee578f#.dexc4f2s0
+
+http://tobiasahlin.com/
+
+https://css-tricks.com/controlling-css-animations-transitions-javascript/
