@@ -305,3 +305,6 @@ https://github.com/ericelliott/essential-javascript-links#essential-javascript-l
 https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4#.2slv3pmlo
 
 ## http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/
+
+### Example of Jekyll site that submits a form using Google Sheets (Casar for Council)
+http://www.mateoclarke.com/work/
