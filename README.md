@@ -308,3 +308,8 @@ https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-yo
 
 ### Example of Jekyll site that submits a form using Google Sheets (Casar for Council)
 http://www.mateoclarke.com/work/
+
+## REACT
+
+### REDUX
+https://blog.andyet.com/2015/08/06/what-the-flux-lets-redux/
