@@ -303,3 +303,5 @@ https://github.com/ericelliott/essential-javascript-links#essential-javascript-l
 
 ## Unit Tests
 https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4#.2slv3pmlo
+
+## http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/
