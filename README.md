@@ -317,3 +317,6 @@ https://blog.andyet.com/2015/08/06/what-the-flux-lets-redux/
 ## Icon Fonts
 http://fontello.com/
 https://icomoon.io/#home
+
+## animations with steps
+http://blog.teamtreehouse.com/css-sprite-sheet-animations-steps
