@@ -40,6 +40,10 @@ http://tutorialzine.com/2013/09/20-impressive-examples-for-learning-webgl-with-t
 D3.js, Three.js and CSS 3D Transforms
 http://www.delimited.io/blog/2014/3/14/d3js-threejs-and-css-3d-transforms
 
+## Blender
+
+Alarm Clock video tutorial
+https://www.youtube.com/watch?v=Ay7fgeQC1WI&t=916s
 
 ## Jekyll
 
