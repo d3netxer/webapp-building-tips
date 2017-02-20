@@ -18,7 +18,25 @@ http://eyeseast.github.io/visible-data/2013/08/26/responsive-d3/
 Publishing interactive web maps using QGIS
 http://anitagraser.com/page/2/
 
-three.js: 3-D WebGS
+## three.js: 3-D WebGS
+3-d cube example using CSS3DRenderer
+http://jsfiddle.net/MdPrb/7/
+
+ThreeJS and CSS 3D Transforms
+https://jeanlescure.io/blog/threejs-and-css-3d-transforms/
+
+A ton of examples from 
+http://stemkoski.github.io/Three.js/
+
+3-D cube with html pages, you can click on the sides
+http://mrdoob.com/lab/javascript/threejs/css3d/
+
+cool three.js demos
+http://learningthreejs.com/blog/2015/09/24/learning-three-dot-js-news-number-15-creative-3d-demos-of-the-week/
+
+20 demos using WebGL
+http://tutorialzine.com/2013/09/20-impressive-examples-for-learning-webgl-with-three-js/
+
 
 ## Jeykyll
 
