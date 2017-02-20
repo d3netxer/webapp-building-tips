@@ -37,13 +37,16 @@ http://learningthreejs.com/blog/2015/09/24/learning-three-dot-js-news-number-15-
 20 demos using WebGL
 http://tutorialzine.com/2013/09/20-impressive-examples-for-learning-webgl-with-three-js/
 
+D3.js, Three.js and CSS 3D Transforms
+http://www.delimited.io/blog/2014/3/14/d3js-threejs-and-css-3d-transforms
 
-## Jeykyll
+
+## Jekyll
 
 ### Dev Seed, Jekyll pages, search plug-in:
 https://developmentseed.org/blog/2011/09/09/jekyll-github-pages/
 
-### tagging in Jeykyll
+### tagging in Jekyll
 https://superdevresources.com/tag-cloud-jekyll/
 
 read more on CSS:
