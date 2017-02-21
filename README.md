@@ -40,6 +40,9 @@ http://tutorialzine.com/2013/09/20-impressive-examples-for-learning-webgl-with-t
 D3.js, Three.js and CSS 3D Transforms
 http://www.delimited.io/blog/2014/3/14/d3js-threejs-and-css-3d-transforms
 
+Blender export with textures and animation example for Three.js
+https://github.com/mrdoob/three.js/issues/780
+
 ## Blender
 
 Alarm Clock video tutorial
