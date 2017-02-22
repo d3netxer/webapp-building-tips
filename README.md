@@ -348,3 +348,6 @@ https://icomoon.io/#home
 
 ## animations with steps
 http://blog.teamtreehouse.com/css-sprite-sheet-animations-steps
+
+### https://stripe.com/
+I like the diagonal lines and the gear animation
