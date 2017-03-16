@@ -18,6 +18,10 @@ http://eyeseast.github.io/visible-data/2013/08/26/responsive-d3/
 Publishing interactive web maps using QGIS
 http://anitagraser.com/page/2/
 
+## topojson
+Creating TopoJSON using D3 v4
+https://medium.com/@aendrew/creating-topojson-using-d3-v4-10838d1a9538#.yfmoan31c
+
 ## three.js: 3-D WebGS
 3-d cube example using CSS3DRenderer
 http://jsfiddle.net/MdPrb/7/
