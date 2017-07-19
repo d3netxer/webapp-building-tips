@@ -18,6 +18,14 @@ http://eyeseast.github.io/visible-data/2013/08/26/responsive-d3/
 Publishing interactive web maps using QGIS
 http://anitagraser.com/page/2/
 
+### Vega - A Visualization Grammer
+built on top of d3
+https://vega.github.io/vega/
+
+#### lyra: The Lyra Visualization Design Environment (VDE)
+free and opensource
+http://idl.cs.washington.edu/projects/lyra/
+
 ## topojson
 Creating TopoJSON using D3 v4
 https://medium.com/@aendrew/creating-topojson-using-d3-v4-10838d1a9538#.yfmoan31c
