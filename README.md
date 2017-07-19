@@ -362,3 +362,7 @@ http://blog.archive.org/2015/02/11/locking-the-web-open-a-call-for-a-distributed
 
 ### different css based shapes
 https://css-tricks.com/examples/ShapesOfCSS/
+
+### continuity
+http://continuity.sasaki.com 
+D3 and three.js to build smooth transitions between data and the map
