@@ -378,3 +378,6 @@ http://www.imaginaryzebra.com/#work
 
 ### Advanced Flexbox tips
 https://hackernoon.com/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b
+
+### Data.gov and CSW requests
+https://gist.github.com/kalxas/5ab6237b4163b0fdc930#getrecords
