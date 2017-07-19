@@ -381,3 +381,9 @@ https://hackernoon.com/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b
 
 ### Data.gov and CSW requests
 https://gist.github.com/kalxas/5ab6237b4163b0fdc930#getrecords
+
+## Learning Javascript
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain
+
+#### Good article on Nueral Nets and AI
+http://fortune.com/ai-artificial-intelligence-deep-machine-learning/
