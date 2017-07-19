@@ -366,3 +366,6 @@ https://css-tricks.com/examples/ShapesOfCSS/
 ### continuity
 http://continuity.sasaki.com 
 D3 and three.js to build smooth transitions between data and the map
+
+#### great example of visualizing homelessness using continuity
+http://www.understandhomelessness.com/explore/ 
