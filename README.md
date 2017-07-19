@@ -374,3 +374,6 @@ http://www.understandhomelessness.com/explore/
 
 ### Imaginary Zebra
 http://www.imaginaryzebra.com/#work
+
+### Advanced Flexbox tips
+https://hackernoon.com/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b
