@@ -369,3 +369,8 @@ D3 and three.js to build smooth transitions between data and the map
 
 #### great example of visualizing homelessness using continuity
 http://www.understandhomelessness.com/explore/ 
+
+## Design Studios
+
+### Imaginary Zebra
+http://www.imaginaryzebra.com/#work
