@@ -395,3 +395,6 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prot
 
 #### Good article on Nueral Nets and AI
 http://fortune.com/ai-artificial-intelligence-deep-machine-learning/
+
+### Mosh (mobile shell)
+https://mosh.org/
