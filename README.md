@@ -398,3 +398,7 @@ http://fortune.com/ai-artificial-intelligence-deep-machine-learning/
 
 ### Mosh (mobile shell)
 https://mosh.org/
+
+### Etherpad
+http://etherpad.org/
+Etherpad is a highly customizable Open Source online editor providing collaborative editing in really real-time.
