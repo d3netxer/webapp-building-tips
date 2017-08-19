@@ -402,3 +402,6 @@ https://mosh.org/
 ### Etherpad
 http://etherpad.org/
 Etherpad is a highly customizable Open Source online editor providing collaborative editing in really real-time.
+
+### Automating Metadata Creation with Python
+https://docs.google.com/document/d/1qtC9U0s5DU7pHeB164ftHoxj8fkYvB94_eJ8HtnfkhM/edit#heading=h.9htdlu75jqxm
