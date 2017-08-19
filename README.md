@@ -405,3 +405,4 @@ Etherpad is a highly customizable Open Source online editor providing collaborat
 
 ### Automating Metadata Creation with Python
 https://docs.google.com/document/d/1qtC9U0s5DU7pHeB164ftHoxj8fkYvB94_eJ8HtnfkhM/edit#heading=h.9htdlu75jqxm
+https://github.com/BTAA-Geospatial-Data-Project/metadataWorkshop
