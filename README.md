@@ -409,3 +409,5 @@ https://github.com/BTAA-Geospatial-Data-Project/metadataWorkshop
 
 ## react-map-gl
 https://uber.github.io/react-map-gl
+
+http://uber.github.io/deck.gl/blog/2017/visualization-framework-suite
