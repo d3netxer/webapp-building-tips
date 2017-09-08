@@ -411,3 +411,6 @@ https://github.com/BTAA-Geospatial-Data-Project/metadataWorkshop
 https://uber.github.io/react-map-gl
 
 http://uber.github.io/deck.gl/blog/2017/visualization-framework-suite
+
+## Serverless AWS apps
+https://aws.amazon.com/serverless/build-a-web-app/
