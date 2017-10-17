@@ -420,3 +420,6 @@ http://info.nvidia.com/end-to-end-computation-on-gpu-webinar_RegPage.html?ncid=e
 
 ## Mesh Networks
 https://www.gotenna.com
+
+### Why Trello Failed to Build a $1 Billion+ Business
+https://blog.usejournal.com/why-trello-failed-to-build-a-1-billion-business-e1579511d5dc
