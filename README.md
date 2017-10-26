@@ -423,3 +423,10 @@ https://www.gotenna.com
 
 ### Why Trello Failed to Build a $1 Billion+ Business
 https://blog.usejournal.com/why-trello-failed-to-build-a-1-billion-business-e1579511d5dc
+
+## Design
+
+### Canvas Design School: https://designschool.canva.com
+article: https://designschool.canva.com/page/4/
+Marry Text and Images: https://designschool.canva.com/blog/how-to-marry-text-and-images/
+
