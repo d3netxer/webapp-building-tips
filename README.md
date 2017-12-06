@@ -430,3 +430,6 @@ https://blog.usejournal.com/why-trello-failed-to-build-a-1-billion-business-e157
 article: https://designschool.canva.com/page/4/
 Marry Text and Images: https://designschool.canva.com/blog/how-to-marry-text-and-images/
 
+### e-mailing people
+https://www.campaignmonitor.com/resources/guides/understanding-emails-laws-regulations/ 
+
