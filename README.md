@@ -432,4 +432,5 @@ Marry Text and Images: https://designschool.canva.com/blog/how-to-marry-text-and
 
 ### e-mailing people
 https://www.campaignmonitor.com/resources/guides/understanding-emails-laws-regulations/ 
+Also look into compliance with the GDPR for EU jurisdictions 
 
